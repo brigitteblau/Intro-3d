@@ -634,10 +634,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 9d5b637e-d9ed-4898-bdba-12e542efe391
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: Intro-3d
+  organizationId: brigitteblau
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
